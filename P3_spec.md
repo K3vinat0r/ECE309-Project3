@@ -1,5 +1,5 @@
 # ECE 309: Project 3 — Tool Use and the Tool Registry
-**Weight:** 20% of project grade | **Duration:** Weeks 7–8 (2 weeks) | **Deadline:** 10/22/2026
+**Weight:** 20% of project grade | **Duration:** Weeks 7–8 (2 weeks) | **Deadline:** _TBD_
 **Expected effort:** about 20–28 hours in total. There is a suggested schedule in §7.
 
 ## 1. Project Overview & Learning Goals
@@ -57,7 +57,7 @@ Everything else is provided, including:
 
 **You write no parsers.** You should *read* the provided code that calls your functions (listed in §4.7), so you can see how they are used.
 
-> **Platform requirement.** Just like previous projects, build and test on Linux: the department Linux machines, WSL2 on Windows, or a Linux VM. The grader runs on Linux with AddressSanitizer. Native Windows toolchains (MSVC/MinGW) are not supported for this project. macOS mostly works, but leak detection is unavailable there, so run your final check on Linux.
+> **Platform requirement.** Build and test on Linux: the department Linux machines, WSL2 on Windows, or a Linux VM. The grader runs on Linux with AddressSanitizer. Native Windows toolchains (MSVC/MinGW) are not supported for this project. macOS mostly works, but leak detection is unavailable there, so run your final check on Linux.
 
 ---
 
